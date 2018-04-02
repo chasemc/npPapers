@@ -1,6 +1,8 @@
 # npPapers
 This is a small collection of Natural Products Papers (mostly for introducing undergrads working with me)
-
+http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=np&themeid=71377851-6603-4d7c-80eb-7aceb28aed4c
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5853187/
+https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5850076/
 
 ## Mass Spectrometry
 - A tutorial in small molecule identification via electrospray ionization-mass spectrometry: The practical art of structural elucidation. Thomas De Vijlder, Dirk Valkenborg, Filip Lemière, Edwin P. Romijn, Kris Laukens, Filip Cuyckens
@@ -12,6 +14,12 @@ This is a small collection of Natural Products Papers (mostly for introducing un
     - https://www.ncbi.nlm.nih.gov/pubmed/27376415
 - Covington BC, McLean JA, Bachmann BO. Comparative mass spectrometry-based metabolomics strategies for the investigation of microbial secondary metabolites. Natural product reports. 2017;34(1):6-24. doi:10.1039/c6np00048g.
     - https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5214543/
+- Mass spectrometry of natural products: current, emerging and future technologies;
+Amina Bouslimani, Laura M. Sanchez, Neha Garg, and Pieter C. Dorrestein 
+    - http://pubs.rsc.org/en/content/articlelanding/2014/np/c4np00044g#!divAbstract
+    - Occurs in a special issue, other articles in the issue are here: http://pubs.rsc.org/en/journals/articlecollectionlanding?themeid=4d49-6d56-14a6-2b79-c1d6-d55f-221c-93b2
+    
+
     
     
 ## Distribution of NPs across the tree of life
