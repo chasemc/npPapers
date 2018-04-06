@@ -1,5 +1,7 @@
 # npPapers
 This is a small collection of Natural Products Papers (mostly for introducing undergrads working with me)
+https://www.ncbi.nlm.nih.gov/books/NBK26866/
+
 http://pubs.rsc.org/en/journals/articlecollectionlanding?sercode=np&themeid=71377851-6603-4d7c-80eb-7aceb28aed4c
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5853187/
 https://www.ncbi.nlm.nih.gov/pmc/articles/PMC5850076/
