@@ -1,3 +1,4 @@
+
 # npPapers
 This is a small collection of Natural Products Papers (mostly for introducing undergrads working with me)
 https://www.ncbi.nlm.nih.gov/books/NBK26866/
@@ -91,4 +92,6 @@ Clark, C. M.; Costa, M. S.; Sanchez, L. M.; Murphy, B. T.  2018. Manuscript unde
     - https://medschool.vanderbilt.edu/msrc/files/msrc/public_files/Forms/clinprotoolsmanual.pdf
 
     
+# Machine Learning
+https://developers.google.com/machine-learning/crash-course
 
