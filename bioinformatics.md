@@ -1,0 +1,2 @@
+- https://liulab-dfci.github.io/bioinfo-combio/
+- https://www.ebi.ac.uk/training/online/courses/introductory-bioinformatics-pathway/
