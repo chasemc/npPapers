@@ -95,3 +95,8 @@ Clark, C. M.; Costa, M. S.; Sanchez, L. M.; Murphy, B. T.  2018. Manuscript unde
 # Machine Learning
 https://developers.google.com/machine-learning/crash-course
 
+
+# 16S
+
+- Discrimination ability:
+  - https://www.nature.com/articles/s41467-019-13036-1
